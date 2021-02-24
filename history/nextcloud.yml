@@ -1,7 +1,7 @@
-url: https://files.jhot.me
+url: $NEXTCLOUD_URL
 status: up
 code: 200
-responseTime: 581
-lastUpdated: 2021-02-24T23:16:16.526Z
+responseTime: 605
+lastUpdated: 2021-02-24T23:28:25.805Z
 startTime: Wed Feb 24 2021 23:16:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
