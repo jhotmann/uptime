@@ -1,7 +1,7 @@
-url: https://bitwarden.jhot.me
+url: $BITWARDEN_URL
 status: up
 code: 200
 responseTime: 330
-lastUpdated: 2021-02-24T23:16:17.278Z
+lastUpdated: 2021-02-24T23:28:26.473Z
 startTime: Wed Feb 24 2021 23:16:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
