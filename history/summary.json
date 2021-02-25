@@ -4,19 +4,19 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 616,
-    "timeDay": 616,
-    "timeWeek": 616,
-    "timeMonth": 616,
-    "timeYear": 616,
+    "status": "up",
+    "uptime": "97.36%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.36%",
+    "time": 1375,
+    "timeDay": 1375,
+    "timeWeek": 1375,
+    "timeMonth": 1375,
+    "timeYear": 1375,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 22
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bitwarden",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 323,
-    "timeDay": 323,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "status": "up",
+    "uptime": "97.38%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "97.38%",
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 22
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$TTRSS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ttrss",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 463,
-    "timeDay": 463,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "status": "up",
+    "uptime": "97.38%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "97.38%",
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 22
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$HASS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 363,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "97.37%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "97.37%",
+    "time": 484,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 22
     }
   }
 ]
