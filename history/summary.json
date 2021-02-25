@@ -4,71 +4,79 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 616,
     "timeDay": 616,
     "timeWeek": 616,
     "timeMonth": 616,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   },
   {
     "name": "Bitwarden",
     "url": "$BITWARDEN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 323,
     "timeDay": 323,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   },
   {
     "name": "TTRSS",
     "url": "$TTRSS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ttrss",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 463,
     "timeDay": 463,
     "timeWeek": 463,
     "timeMonth": 463,
     "timeYear": 463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   },
   {
     "name": "Home Assistant",
     "url": "$HASS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 363,
     "timeDay": 363,
     "timeWeek": 363,
     "timeMonth": 363,
     "timeYear": 363,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   }
 ]
