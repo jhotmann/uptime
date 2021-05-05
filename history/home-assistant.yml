@@ -1,7 +1,7 @@
 url: $HASS_URL
-status: up
-code: 200
-responseTime: 176
-lastUpdated: 2021-05-04T23:09:06.145Z
+status: down
+code: 502
+responseTime: 178
+lastUpdated: 2021-05-05T10:29:31.292Z
 startTime: Wed Feb 24 2021 23:16:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
