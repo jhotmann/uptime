@@ -25,9 +25,9 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 422,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2021-05-11": 0,
       "2021-02-28": 16,
       "2021-02-25": 22
     }
