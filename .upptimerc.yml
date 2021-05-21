@@ -8,8 +8,8 @@ sites:
     url: $NEXTCLOUD_URL
   - name: Bitwarden
     url: $BITWARDEN_URL
-  - name: TTRSS
-    url: $TTRSS_URL
+  - name: Miniflux
+    url: $MINIFLUX_URL
   - name: Home Assistant
     url: $HASS_URL
 
